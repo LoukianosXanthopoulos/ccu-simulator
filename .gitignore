@@ -1,0 +1,16 @@
+*.pyc
+__pycache__/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.venv/
+venv/
+*.dxf
+*.stl
+*.obj
+*.json
+.DS_Store
+*.swp
+.idea/
+.vscode/
